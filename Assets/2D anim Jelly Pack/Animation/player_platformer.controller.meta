@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57943a87417e23f459549eda2a442c23
+timeCreated: 1475852329
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72228
+  packageName: 2D Anim Jelly Pack
+  packageVersion: 2.2
+  assetPath: Assets/2D anim Jelly Pack/Animation/player_platformer.controller
+  uploadId: 234390

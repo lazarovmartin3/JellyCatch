@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6714f9f742d3a5a41ba9887e60007c4e
+timeCreated: 1475839924
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72228
+  packageName: 2D Anim Jelly Pack
+  packageVersion: 2.2
+  assetPath: Assets/2D anim Jelly Pack/Prefab/player_platformer.prefab
+  uploadId: 234390

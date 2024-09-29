@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cbf0f4476c833f4596bb9433c722650
+timeCreated: 1475835194
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72228
+  packageName: 2D Anim Jelly Pack
+  packageVersion: 2.2
+  assetPath: Assets/2D anim Jelly Pack/Scene/Demo_move_platformer.unity
+  uploadId: 234390

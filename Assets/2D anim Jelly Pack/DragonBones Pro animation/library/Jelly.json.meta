@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c82bfd45e73d4d34e977b24b1aaf0378
+timeCreated: 1520835904
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72228
+  packageName: 2D Anim Jelly Pack
+  packageVersion: 2.2
+  assetPath: Assets/2D anim Jelly Pack/DragonBones Pro animation/library/Jelly.json
+  uploadId: 234390

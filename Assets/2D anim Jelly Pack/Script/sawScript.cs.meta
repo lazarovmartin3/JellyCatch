@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5eca17fd239267b4b8934c4bd01d5ef5
+timeCreated: 1475847964
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 72228
+  packageName: 2D Anim Jelly Pack
+  packageVersion: 2.2
+  assetPath: Assets/2D anim Jelly Pack/Script/sawScript.cs
+  uploadId: 234390
